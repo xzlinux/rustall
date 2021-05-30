@@ -1,0 +1,1 @@
+/Users/bindo123/code/rust/web/gotham/target/debug/libgotham_derive.dylib: /Users/bindo123/code/rust/web/gotham/gotham_derive/src/extenders.rs /Users/bindo123/code/rust/web/gotham/gotham_derive/src/lib.rs /Users/bindo123/code/rust/web/gotham/gotham_derive/src/new_middleware.rs /Users/bindo123/code/rust/web/gotham/gotham_derive/src/state.rs

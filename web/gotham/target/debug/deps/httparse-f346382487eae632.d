@@ -1,0 +1,12 @@
+/Users/bindo123/code/rust/web/gotham/target/debug/deps/httparse-f346382487eae632.rmeta: /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/Users/bindo123/code/rust/web/gotham/target/debug/deps/libhttparse-f346382487eae632.rlib: /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/Users/bindo123/code/rust/web/gotham/target/debug/deps/httparse-f346382487eae632.d: /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs:
+/Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs:
+/Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs:
+/Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs:
+/Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs:
+/Users/bindo123/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs:

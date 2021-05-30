@@ -1,0 +1,1 @@
+/Users/bindo123/code/rust/web/gotham/target/debug/libborrow_bag.rlib: /Users/bindo123/code/rust/web/gotham/misc/borrow_bag/src/append.rs /Users/bindo123/code/rust/web/gotham/misc/borrow_bag/src/handle.rs /Users/bindo123/code/rust/web/gotham/misc/borrow_bag/src/lib.rs /Users/bindo123/code/rust/web/gotham/misc/borrow_bag/src/lookup.rs

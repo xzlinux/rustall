@@ -1,0 +1,11 @@
+[package]
+name = "cfg_exp"
+version = "0.1.0"
+authors = ["bindo123"]
+edition = "2018"
+
+[features]
+some_condition = []
+
+
+[dependencies]
